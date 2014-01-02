@@ -3,7 +3,9 @@ pygments:         true
 paginate:         4
 
 title:            Black Cube Theme
+
 url:              /jekll_blog_reading_notes
+baseurl:          /jekll_blog_reading_notes
 feed:             /atom.xml
 author:
     name:         PIZn
