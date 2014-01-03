@@ -4,8 +4,8 @@ paginate:         4
 
 title:            Black Cube Theme
 
-url:              wanguolin.github.io/jekll_blog_reading_notes
-feed:             /atom.xml
+url:              http://wanguolin.github.io
+feed:             jekll_blog_reading_notes/atom.xml
 author:
     name:         PIZn
     email:        pizner@gmail.com
@@ -18,6 +18,6 @@ follow:
 description:      "PIZn's blog theme -- Black Cube Theme 1.0 "
 
 
-style: 			  /css/style.css
+style: 			  jekll_blog_reading_notes/css/style.css
 blogName: 		  PIZn
 blogDesc: 		  Phosphorus,Iodine & Zinc.
